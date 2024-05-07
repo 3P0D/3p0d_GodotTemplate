@@ -25,7 +25,7 @@ folder_colors={
 "res://_ART/_3D/": "blue",
 "res://_ART/_ANIM/": "pink",
 "res://_ART/_RENDER/": "purple",
-"res://__BIN/": "gray",
 "res://__DEBUG/": "gray",
-"res://__DOC/": "gray"
+"res://__DOC/": "gray",
+"res://__PHs/": "gray"
 }
